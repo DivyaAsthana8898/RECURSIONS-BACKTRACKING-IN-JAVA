@@ -22,3 +22,4 @@ public class MoveAllxAtTheEnd {
         solve(str,0,0,"");
     }
 }
+// char - char = integer
